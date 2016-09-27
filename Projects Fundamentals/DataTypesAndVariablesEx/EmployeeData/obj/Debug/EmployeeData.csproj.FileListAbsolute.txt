@@ -1,0 +1,5 @@
+D:\Softuni\Projects Fundamentals\DataTypesAndVariablesEx\EmployeeData\bin\Debug\EmployeeData.exe.config
+D:\Softuni\Projects Fundamentals\DataTypesAndVariablesEx\EmployeeData\bin\Debug\EmployeeData.exe
+D:\Softuni\Projects Fundamentals\DataTypesAndVariablesEx\EmployeeData\bin\Debug\EmployeeData.pdb
+D:\Softuni\Projects Fundamentals\DataTypesAndVariablesEx\EmployeeData\obj\Debug\EmployeeData.exe
+D:\Softuni\Projects Fundamentals\DataTypesAndVariablesEx\EmployeeData\obj\Debug\EmployeeData.pdb

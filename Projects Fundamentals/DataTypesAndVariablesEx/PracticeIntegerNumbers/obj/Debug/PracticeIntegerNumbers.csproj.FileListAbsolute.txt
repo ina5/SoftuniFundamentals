@@ -1,0 +1,6 @@
+D:\Softuni\Projects Fundamentals\DataTypesAndVariablesEx\PracticeIntegerNumbers\bin\Debug\PracticeIntegerNumbers.exe.config
+D:\Softuni\Projects Fundamentals\DataTypesAndVariablesEx\PracticeIntegerNumbers\bin\Debug\PracticeIntegerNumbers.exe
+D:\Softuni\Projects Fundamentals\DataTypesAndVariablesEx\PracticeIntegerNumbers\bin\Debug\PracticeIntegerNumbers.pdb
+D:\Softuni\Projects Fundamentals\DataTypesAndVariablesEx\PracticeIntegerNumbers\obj\Debug\PracticeIntegerNumbers.csprojResolveAssemblyReference.cache
+D:\Softuni\Projects Fundamentals\DataTypesAndVariablesEx\PracticeIntegerNumbers\obj\Debug\PracticeIntegerNumbers.exe
+D:\Softuni\Projects Fundamentals\DataTypesAndVariablesEx\PracticeIntegerNumbers\obj\Debug\PracticeIntegerNumbers.pdb

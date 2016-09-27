@@ -1,0 +1,5 @@
+D:\Softuni\Projects Fundamentals\DataTypesAndVariablesEx\PractiseFloatingPointNumbers\bin\Debug\PractiseFloatingPointNumbers.exe.config
+D:\Softuni\Projects Fundamentals\DataTypesAndVariablesEx\PractiseFloatingPointNumbers\bin\Debug\PractiseFloatingPointNumbers.exe
+D:\Softuni\Projects Fundamentals\DataTypesAndVariablesEx\PractiseFloatingPointNumbers\bin\Debug\PractiseFloatingPointNumbers.pdb
+D:\Softuni\Projects Fundamentals\DataTypesAndVariablesEx\PractiseFloatingPointNumbers\obj\Debug\PractiseFloatingPointNumbers.exe
+D:\Softuni\Projects Fundamentals\DataTypesAndVariablesEx\PractiseFloatingPointNumbers\obj\Debug\PractiseFloatingPointNumbers.pdb

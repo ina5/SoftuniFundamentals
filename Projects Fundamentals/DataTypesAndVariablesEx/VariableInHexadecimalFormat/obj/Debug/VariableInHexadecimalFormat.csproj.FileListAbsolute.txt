@@ -1,0 +1,1 @@
+D:\Softuni\Projects Fundamentals\DataTypesAndVariablesEx\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config

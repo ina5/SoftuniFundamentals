@@ -1,0 +1,6 @@
+D:\Softuni\Projects Fundamentals\DataTypesAndVariablesEx\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+D:\Softuni\Projects Fundamentals\DataTypesAndVariablesEx\BooleanVariable\bin\Debug\BooleanVariable.exe
+D:\Softuni\Projects Fundamentals\DataTypesAndVariablesEx\BooleanVariable\bin\Debug\BooleanVariable.pdb
+D:\Softuni\Projects Fundamentals\DataTypesAndVariablesEx\BooleanVariable\obj\Debug\BooleanVariable.csprojResolveAssemblyReference.cache
+D:\Softuni\Projects Fundamentals\DataTypesAndVariablesEx\BooleanVariable\obj\Debug\BooleanVariable.exe
+D:\Softuni\Projects Fundamentals\DataTypesAndVariablesEx\BooleanVariable\obj\Debug\BooleanVariable.pdb

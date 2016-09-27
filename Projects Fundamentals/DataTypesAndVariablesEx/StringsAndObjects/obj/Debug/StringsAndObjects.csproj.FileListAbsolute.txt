@@ -1,0 +1,5 @@
+D:\Softuni\Projects Fundamentals\DataTypesAndVariablesEx\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+D:\Softuni\Projects Fundamentals\DataTypesAndVariablesEx\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+D:\Softuni\Projects Fundamentals\DataTypesAndVariablesEx\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+D:\Softuni\Projects Fundamentals\DataTypesAndVariablesEx\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+D:\Softuni\Projects Fundamentals\DataTypesAndVariablesEx\StringsAndObjects\obj\Debug\StringsAndObjects.pdb
