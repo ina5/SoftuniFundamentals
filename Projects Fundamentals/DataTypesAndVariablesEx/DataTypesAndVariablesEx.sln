@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeData", "EmployeeDat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseCharacters", "ReverseCharacters\ReverseCharacters.csproj", "{ABBE14E1-66D8-446B-BBDB-0E386BDC495B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CenturiesToNanoseconds", "CenturiesToNanoseconds\CenturiesToNanoseconds.csproj", "{339F7770-6483-4D88-AD9A-65DE079AD505}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertSpeedUnits", "ConvertSpeedUnits\ConvertSpeedUnits.csproj", "{0FD7BB68-21B9-4F0B-9543-299607FC0696}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{ABBE14E1-66D8-446B-BBDB-0E386BDC495B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABBE14E1-66D8-446B-BBDB-0E386BDC495B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABBE14E1-66D8-446B-BBDB-0E386BDC495B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{339F7770-6483-4D88-AD9A-65DE079AD505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{339F7770-6483-4D88-AD9A-65DE079AD505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{339F7770-6483-4D88-AD9A-65DE079AD505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{339F7770-6483-4D88-AD9A-65DE079AD505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FD7BB68-21B9-4F0B-9543-299607FC0696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FD7BB68-21B9-4F0B-9543-299607FC0696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FD7BB68-21B9-4F0B-9543-299607FC0696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FD7BB68-21B9-4F0B-9543-299607FC0696}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
