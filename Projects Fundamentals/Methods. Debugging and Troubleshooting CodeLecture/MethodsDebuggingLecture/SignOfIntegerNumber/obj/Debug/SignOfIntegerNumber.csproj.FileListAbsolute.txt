@@ -1,0 +1,1 @@
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\SignOfIntegerNumber\bin\Debug\SignOfIntegerNumber.exe.config

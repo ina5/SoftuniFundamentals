@@ -1,0 +1,5 @@
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\DrawAFilledSquare\bin\Debug\DrawAFilledSquare.exe.config
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\DrawAFilledSquare\bin\Debug\DrawAFilledSquare.exe
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\DrawAFilledSquare\bin\Debug\DrawAFilledSquare.pdb
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\DrawAFilledSquare\obj\Debug\DrawAFilledSquare.exe
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\DrawAFilledSquare\obj\Debug\DrawAFilledSquare.pdb

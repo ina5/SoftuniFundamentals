@@ -1,0 +1,6 @@
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\MathPower\bin\Debug\MathPower.exe.config
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\MathPower\bin\Debug\MathPower.exe
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\MathPower\bin\Debug\MathPower.pdb
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\MathPower\obj\Debug\MathPower.csprojResolveAssemblyReference.cache
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\MathPower\obj\Debug\MathPower.exe
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\MathPower\obj\Debug\MathPower.pdb

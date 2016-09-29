@@ -1,0 +1,6 @@
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\MultiplyEvensByOdds\bin\Debug\MultiplyEvensByOdds.exe.config
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\MultiplyEvensByOdds\bin\Debug\MultiplyEvensByOdds.exe
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\MultiplyEvensByOdds\bin\Debug\MultiplyEvensByOdds.pdb
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\MultiplyEvensByOdds\obj\Debug\MultiplyEvensByOdds.csprojResolveAssemblyReference.cache
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\MultiplyEvensByOdds\obj\Debug\MultiplyEvensByOdds.exe
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\MultiplyEvensByOdds\obj\Debug\MultiplyEvensByOdds.pdb

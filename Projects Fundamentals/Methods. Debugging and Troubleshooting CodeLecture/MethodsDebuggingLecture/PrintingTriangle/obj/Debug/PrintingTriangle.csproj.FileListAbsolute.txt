@@ -1,0 +1,6 @@
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\PrintingTriangle\bin\Debug\PrintingTriangle.exe.config
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\PrintingTriangle\bin\Debug\PrintingTriangle.exe
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\PrintingTriangle\bin\Debug\PrintingTriangle.pdb
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\PrintingTriangle\obj\Debug\PrintingTriangle.exe
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\PrintingTriangle\obj\Debug\PrintingTriangle.pdb
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\PrintingTriangle\obj\Debug\PrintingTriangle.csprojResolveAssemblyReference.cache
