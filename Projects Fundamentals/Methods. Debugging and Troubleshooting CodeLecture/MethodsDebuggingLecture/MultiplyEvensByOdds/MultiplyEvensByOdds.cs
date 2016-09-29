@@ -10,7 +10,7 @@ namespace MultiplyEvensByOdds
     {
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
+            int n = Math.Abs(int.Parse(Console.ReadLine()));
             Console.WriteLine(GetEvensAndOdds(n));
         }
         static int GetEvensAndOdds(int n)
