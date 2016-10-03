@@ -1,0 +1,5 @@
+D:\Softuni\Projects Fundamentals\MethodsAndDebuggingExercises\MaxMethod\bin\Debug\MaxMethod.exe.config
+D:\Softuni\Projects Fundamentals\MethodsAndDebuggingExercises\MaxMethod\bin\Debug\MaxMethod.exe
+D:\Softuni\Projects Fundamentals\MethodsAndDebuggingExercises\MaxMethod\bin\Debug\MaxMethod.pdb
+D:\Softuni\Projects Fundamentals\MethodsAndDebuggingExercises\MaxMethod\obj\Debug\MaxMethod.exe
+D:\Softuni\Projects Fundamentals\MethodsAndDebuggingExercises\MaxMethod\obj\Debug\MaxMethod.pdb

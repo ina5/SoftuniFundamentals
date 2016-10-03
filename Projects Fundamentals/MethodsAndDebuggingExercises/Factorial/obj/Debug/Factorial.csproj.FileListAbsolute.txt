@@ -1,0 +1,5 @@
+D:\Softuni\Projects Fundamentals\MethodsAndDebuggingExercises\Factorial\bin\Debug\Factorial.exe.config
+D:\Softuni\Projects Fundamentals\MethodsAndDebuggingExercises\Factorial\bin\Debug\Factorial.exe
+D:\Softuni\Projects Fundamentals\MethodsAndDebuggingExercises\Factorial\bin\Debug\Factorial.pdb
+D:\Softuni\Projects Fundamentals\MethodsAndDebuggingExercises\Factorial\obj\Debug\Factorial.exe
+D:\Softuni\Projects Fundamentals\MethodsAndDebuggingExercises\Factorial\obj\Debug\Factorial.pdb

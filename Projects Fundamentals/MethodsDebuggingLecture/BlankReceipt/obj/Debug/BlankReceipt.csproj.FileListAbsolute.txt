@@ -1,0 +1,9 @@
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\BlankReceipt\bin\Debug\BlankReceipt.exe.config
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\BlankReceipt\bin\Debug\BlankReceipt.exe
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\BlankReceipt\bin\Debug\BlankReceipt.pdb
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\BlankReceipt\obj\Debug\BlankReceipt.csprojResolveAssemblyReference.cache
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\BlankReceipt\obj\Debug\BlankReceipt.exe
+D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\BlankReceipt\obj\Debug\BlankReceipt.pdb
+D:\Softuni\Projects Fundamentals\MethodsDebuggingLecture\BlankReceipt\bin\Debug\BlankReceipt.exe.config
+D:\Softuni\Projects Fundamentals\MethodsDebuggingLecture\BlankReceipt\obj\Debug\BlankReceipt.exe
+D:\Softuni\Projects Fundamentals\MethodsDebuggingLecture\BlankReceipt\obj\Debug\BlankReceipt.pdb

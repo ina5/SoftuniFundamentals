@@ -1,0 +1,6 @@
+D:\Softuni\Projects Fundamentals\MethodsAndDebuggingExercises\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.exe.config
+D:\Softuni\Projects Fundamentals\MethodsAndDebuggingExercises\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.exe
+D:\Softuni\Projects Fundamentals\MethodsAndDebuggingExercises\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.pdb
+D:\Softuni\Projects Fundamentals\MethodsAndDebuggingExercises\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.csprojResolveAssemblyReference.cache
+D:\Softuni\Projects Fundamentals\MethodsAndDebuggingExercises\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.exe
+D:\Softuni\Projects Fundamentals\MethodsAndDebuggingExercises\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.pdb

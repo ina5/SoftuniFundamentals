@@ -1,1 +1,0 @@
-D:\Softuni\Projects Fundamentals\Methods. Debugging and Troubleshooting CodeLecture\MethodsDebuggingLecture\PriceChangeAlert\bin\Debug\PriceChangeAlert.exe.config
