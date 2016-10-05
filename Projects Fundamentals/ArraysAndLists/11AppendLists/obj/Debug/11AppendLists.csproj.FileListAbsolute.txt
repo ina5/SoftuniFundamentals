@@ -1,0 +1,6 @@
+D:\Softuni\Projects Fundamentals\ArraysAndLists\11AppendLists\bin\Debug\11AppendLists.exe.config
+D:\Softuni\Projects Fundamentals\ArraysAndLists\11AppendLists\bin\Debug\11AppendLists.exe
+D:\Softuni\Projects Fundamentals\ArraysAndLists\11AppendLists\bin\Debug\11AppendLists.pdb
+D:\Softuni\Projects Fundamentals\ArraysAndLists\11AppendLists\obj\Debug\11AppendLists.csprojResolveAssemblyReference.cache
+D:\Softuni\Projects Fundamentals\ArraysAndLists\11AppendLists\obj\Debug\11AppendLists.exe
+D:\Softuni\Projects Fundamentals\ArraysAndLists\11AppendLists\obj\Debug\11AppendLists.pdb

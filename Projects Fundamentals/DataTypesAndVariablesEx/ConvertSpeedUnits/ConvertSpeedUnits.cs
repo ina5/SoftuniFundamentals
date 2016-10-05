@@ -10,13 +10,15 @@ namespace ConvertSpeedUnits
     {
         static void Main(string[] args)
         {
-            int distance = int.Parse(Console.ReadLine());
-            int hours= int.Parse(Console.ReadLine());
-            int minutes = int.Parse(Console.ReadLine());
-            int seconds = int.Parse(Console.ReadLine());
-            float metersSec = distance / seconds;
-            float kmHour = (distance / 1000) / hours;
-                float milesHour
+            float distance = float.Parse(Console.ReadLine());
+            float hours =    float.Parse(Console.ReadLine());
+            float minutes =  float.Parse(Console.ReadLine());
+            float seconds =  float.Parse(Console.ReadLine());
+
+            float metersSec = (hours + minutes / 60 + seconds / 3600) / 3.6f;
+            float kmHour = (distance / 1000) / (hours + minutes / 60 + seconds / 3600);
+            float milesHour = (distance / 1609) / (hours + minutes / 60 + seconds / 3600);
+            Console.WriteLine("{0} \n{1} \n{2}", metersSec, kmHour, milesHour);
         }
     }
 }

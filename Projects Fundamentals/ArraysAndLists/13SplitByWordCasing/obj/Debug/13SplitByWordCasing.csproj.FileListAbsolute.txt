@@ -1,0 +1,6 @@
+D:\Softuni\Projects Fundamentals\ArraysAndLists\13SplitByWordCasing\bin\Debug\13SplitByWordCasing.exe.config
+D:\Softuni\Projects Fundamentals\ArraysAndLists\13SplitByWordCasing\bin\Debug\13SplitByWordCasing.exe
+D:\Softuni\Projects Fundamentals\ArraysAndLists\13SplitByWordCasing\bin\Debug\13SplitByWordCasing.pdb
+D:\Softuni\Projects Fundamentals\ArraysAndLists\13SplitByWordCasing\obj\Debug\13SplitByWordCasing.csprojResolveAssemblyReference.cache
+D:\Softuni\Projects Fundamentals\ArraysAndLists\13SplitByWordCasing\obj\Debug\13SplitByWordCasing.exe
+D:\Softuni\Projects Fundamentals\ArraysAndLists\13SplitByWordCasing\obj\Debug\13SplitByWordCasing.pdb

@@ -1,0 +1,6 @@
+D:\Softuni\Projects Fundamentals\ArraysAndLists\08CondenseArrayToNumber\bin\Debug\08CondenseArrayToNumber.exe.config
+D:\Softuni\Projects Fundamentals\ArraysAndLists\08CondenseArrayToNumber\bin\Debug\08CondenseArrayToNumber.exe
+D:\Softuni\Projects Fundamentals\ArraysAndLists\08CondenseArrayToNumber\bin\Debug\08CondenseArrayToNumber.pdb
+D:\Softuni\Projects Fundamentals\ArraysAndLists\08CondenseArrayToNumber\obj\Debug\08CondenseArrayToNumber.csprojResolveAssemblyReference.cache
+D:\Softuni\Projects Fundamentals\ArraysAndLists\08CondenseArrayToNumber\obj\Debug\08CondenseArrayToNumber.exe
+D:\Softuni\Projects Fundamentals\ArraysAndLists\08CondenseArrayToNumber\obj\Debug\08CondenseArrayToNumber.pdb

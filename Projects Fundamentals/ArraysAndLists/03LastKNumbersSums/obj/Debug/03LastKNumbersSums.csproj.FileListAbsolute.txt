@@ -1,0 +1,5 @@
+D:\Softuni\Projects Fundamentals\ArraysAndLists\03LastKNumbersSums\bin\Debug\03LastKNumbersSums.exe.config
+D:\Softuni\Projects Fundamentals\ArraysAndLists\03LastKNumbersSums\bin\Debug\03LastKNumbersSums.exe
+D:\Softuni\Projects Fundamentals\ArraysAndLists\03LastKNumbersSums\bin\Debug\03LastKNumbersSums.pdb
+D:\Softuni\Projects Fundamentals\ArraysAndLists\03LastKNumbersSums\obj\Debug\03LastKNumbersSums.exe
+D:\Softuni\Projects Fundamentals\ArraysAndLists\03LastKNumbersSums\obj\Debug\03LastKNumbersSums.pdb

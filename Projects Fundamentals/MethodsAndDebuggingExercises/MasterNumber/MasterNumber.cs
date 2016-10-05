@@ -22,17 +22,16 @@ namespace MasterNumber
         public static bool isPalindrome(int number)
         {
             string numberStr = number.ToString();
+
             if (numberStr.Length < 4 && numberStr[0] == numberStr[numberStr.Length - 1])
             {
                 return true;
             }
-            else if (numberStr.Length < 6 &&
-                (numberStr[0] == numberStr[numberStr.Length - 1] && numberStr[1] == numberStr[numberStr.Length - 2]))
+            else if (numberStr.Length < 6 && (numberStr[0] == numberStr[numberStr.Length - 1] && numberStr[1] == numberStr[numberStr.Length - 2]))
             {
                 return true;
             }
-            else if (numberStr.Length < 8 &&
-               (numberStr[0] == numberStr[numberStr.Length - 1] && numberStr[1] == numberStr[numberStr.Length - 2]
+            else if (numberStr.Length < 8 && (numberStr[0] == numberStr[numberStr.Length - 1] && numberStr[1] == numberStr[numberStr.Length - 2]
                && numberStr[2] == numberStr[numberStr.Length - 3]))
             {
                 return true;
