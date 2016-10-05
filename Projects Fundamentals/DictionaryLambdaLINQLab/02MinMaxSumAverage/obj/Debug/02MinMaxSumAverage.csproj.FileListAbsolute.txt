@@ -1,0 +1,6 @@
+D:\Softuni\Projects Fundamentals\DictionaryLambdaLINQLab\02MinMaxSumAverage\bin\Debug\02MinMaxSumAverage.exe.config
+D:\Softuni\Projects Fundamentals\DictionaryLambdaLINQLab\02MinMaxSumAverage\bin\Debug\02MinMaxSumAverage.exe
+D:\Softuni\Projects Fundamentals\DictionaryLambdaLINQLab\02MinMaxSumAverage\bin\Debug\02MinMaxSumAverage.pdb
+D:\Softuni\Projects Fundamentals\DictionaryLambdaLINQLab\02MinMaxSumAverage\obj\Debug\02MinMaxSumAverage.csprojResolveAssemblyReference.cache
+D:\Softuni\Projects Fundamentals\DictionaryLambdaLINQLab\02MinMaxSumAverage\obj\Debug\02MinMaxSumAverage.exe
+D:\Softuni\Projects Fundamentals\DictionaryLambdaLINQLab\02MinMaxSumAverage\obj\Debug\02MinMaxSumAverage.pdb
