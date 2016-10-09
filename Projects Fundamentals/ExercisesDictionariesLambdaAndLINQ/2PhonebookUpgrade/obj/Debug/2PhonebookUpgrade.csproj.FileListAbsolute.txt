@@ -1,0 +1,5 @@
+D:\Softuni\Projects Fundamentals\ExercisesDictionariesLambdaAndLINQ\2PhonebookUpgrade\bin\Debug\2PhonebookUpgrade.exe.config
+D:\Softuni\Projects Fundamentals\ExercisesDictionariesLambdaAndLINQ\2PhonebookUpgrade\bin\Debug\2PhonebookUpgrade.exe
+D:\Softuni\Projects Fundamentals\ExercisesDictionariesLambdaAndLINQ\2PhonebookUpgrade\bin\Debug\2PhonebookUpgrade.pdb
+D:\Softuni\Projects Fundamentals\ExercisesDictionariesLambdaAndLINQ\2PhonebookUpgrade\obj\Debug\2PhonebookUpgrade.exe
+D:\Softuni\Projects Fundamentals\ExercisesDictionariesLambdaAndLINQ\2PhonebookUpgrade\obj\Debug\2PhonebookUpgrade.pdb

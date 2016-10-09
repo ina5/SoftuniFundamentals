@@ -1,0 +1,6 @@
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\10PairsByDifference\bin\Debug\10PairsByDifference.exe.config
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\10PairsByDifference\bin\Debug\10PairsByDifference.exe
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\10PairsByDifference\bin\Debug\10PairsByDifference.pdb
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\10PairsByDifference\obj\Debug\10PairsByDifference.csprojResolveAssemblyReference.cache
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\10PairsByDifference\obj\Debug\10PairsByDifference.exe
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\10PairsByDifference\obj\Debug\10PairsByDifference.pdb

@@ -1,0 +1,6 @@
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\2RotateAndSum\bin\Debug\2RotateAndSum.exe.config
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\2RotateAndSum\bin\Debug\2RotateAndSum.exe
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\2RotateAndSum\bin\Debug\2RotateAndSum.pdb
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\2RotateAndSum\obj\Debug\2RotateAndSum.exe
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\2RotateAndSum\obj\Debug\2RotateAndSum.pdb
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\2RotateAndSum\obj\Debug\2RotateAndSum.csprojResolveAssemblyReference.cache

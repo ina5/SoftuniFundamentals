@@ -1,0 +1,1 @@
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\08MostFrequentNumber\bin\Debug\08MostFrequentNumber.exe.config

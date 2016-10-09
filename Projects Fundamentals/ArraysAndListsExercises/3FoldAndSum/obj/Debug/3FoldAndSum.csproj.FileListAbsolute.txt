@@ -1,0 +1,6 @@
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\3FoldAndSum\bin\Debug\3FoldAndSum.exe.config
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\3FoldAndSum\bin\Debug\3FoldAndSum.exe
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\3FoldAndSum\bin\Debug\3FoldAndSum.pdb
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\3FoldAndSum\obj\Debug\3FoldAndSum.exe
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\3FoldAndSum\obj\Debug\3FoldAndSum.pdb
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\3FoldAndSum\obj\Debug\3FoldAndSum.csprojResolveAssemblyReference.cache

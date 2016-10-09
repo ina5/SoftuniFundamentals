@@ -1,0 +1,6 @@
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\6MaxSequenceOfEqualElements\bin\Debug\6MaxSequenceOfEqualElements.exe.config
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\6MaxSequenceOfEqualElements\bin\Debug\6MaxSequenceOfEqualElements.exe
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\6MaxSequenceOfEqualElements\bin\Debug\6MaxSequenceOfEqualElements.pdb
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\6MaxSequenceOfEqualElements\obj\Debug\6MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\6MaxSequenceOfEqualElements\obj\Debug\6MaxSequenceOfEqualElements.exe
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\6MaxSequenceOfEqualElements\obj\Debug\6MaxSequenceOfEqualElements.pdb

@@ -1,0 +1,1 @@
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\12MaxSequenceOfEqualElements\bin\Debug\12MaxSequenceOfEqualElements.exe.config

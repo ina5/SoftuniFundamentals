@@ -1,0 +1,6 @@
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\5CompareCharArrays\bin\Debug\5CompareCharArrays.exe.config
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\5CompareCharArrays\bin\Debug\5CompareCharArrays.exe
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\5CompareCharArrays\bin\Debug\5CompareCharArrays.pdb
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\5CompareCharArrays\obj\Debug\5CompareCharArrays.csprojResolveAssemblyReference.cache
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\5CompareCharArrays\obj\Debug\5CompareCharArrays.exe
+D:\Softuni\Projects Fundamentals\ArraysAndListsExercises\5CompareCharArrays\obj\Debug\5CompareCharArrays.pdb
