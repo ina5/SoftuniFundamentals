@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Numerics;
 
 namespace _9IndexOfLetters
 {
@@ -16,6 +17,7 @@ namespace _9IndexOfLetters
             {
                 Console.WriteLine("{0} -> {1}", input[i], input[i] - 'a');
             }
+
         }
     }
 }
